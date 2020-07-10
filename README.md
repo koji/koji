@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![itp](https://itp.nyu.edu/image/w256//people_pics/flash/kanao_k_562625.png)
+
 <!--
 **koji/koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
