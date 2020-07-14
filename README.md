@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello  👋  こんにちは
 
 ![itp](https://itp.nyu.edu/image/w256//people_pics/flash/kanao_k_562625.png)
 
