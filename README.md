@@ -1,6 +1,7 @@
 ### Hello  👋  こんにちは
 
-![gif](https://github.com/koji/koji/blob/master/output.gif)      
+<img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="300"/>
+
 [instagram](https://www.instagram.com/koji_kanao/)
 <!--
 **koji/koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
