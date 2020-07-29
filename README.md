@@ -1,5 +1,7 @@
 ### Hello  👋  こんにちは
 
+![koji's github stats](https://github-readme-stats.vercel.app/api?username=koji&show_icons=true&theme=radical)
+ 
 <div align="center">
 <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="300"/>
 
