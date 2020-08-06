@@ -15,6 +15,10 @@
   <a href="mailto:kk2796@nyu.edu?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 
+## blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **koji/koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
