@@ -14,6 +14,11 @@
  <a href="https://www.linkedin.com/in/kojikanao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kk2796@nyu.edu?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
+ 
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/koji/count.svg" alt="hit counter" align="center">
+</div>
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
