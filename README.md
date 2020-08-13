@@ -17,11 +17,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Display Elapsed Time in Python](https://dev.to/kojikanao/display-elapsed-time-in-python-4ofm)
 - [3 Tips to Make Your GitHub Profile better ](https://dev.to/kojikanao/3-tips-to-make-your-github-profile-better-5a4j)
 - [Good Resources to Learn Deno](https://dev.to/kojikanao/good-resources-to-learn-deno-3dld)
 - [Are You Using GitHub Profile Repo?](https://dev.to/kojikanao/are-you-using-github-profile-repo-3k2i)
 - [Have You Noticed Two New Git Commands from 2.23?](https://dev.to/kojikanao/have-you-noticed-two-new-git-commands-from-2-23-47ek)
-- [Force to Use yarn](https://dev.to/kojikanao/force-to-use-yarn-em2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
