@@ -22,11 +22,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [pip commands You Should Know!!!](https://dev.to/kojikanao/pip-commands-you-should-know-3mpl)
 - [Python version on OS of GitHub Actions](https://dev.to/kojikanao/python-version-on-os-of-github-actions-3fc6)
 - [Display Elapsed Time in Python](https://dev.to/kojikanao/display-elapsed-time-in-python-4ofm)
 - [3 Tips to Make Your GitHub Profile better](https://dev.to/kojikanao/3-tips-to-make-your-github-profile-better-5a4j)
 - [Good Resources to Learn Deno](https://dev.to/kojikanao/good-resources-to-learn-deno-3dld)
-- [Are You Using GitHub Profile Repo?](https://dev.to/kojikanao/are-you-using-github-profile-repo-3k2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
