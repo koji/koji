@@ -22,11 +22,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Install python 3.8.0 via pyenv on BigSur](https://dev.to/kojikanao/install-python-3-8-0-via-pyenv-on-bigsur-4oee)
 - [Set up a Blog with Notion and Vercel in 10 min](https://dev.to/kojikanao/set-up-a-blog-with-notion-and-vercel-in-10-min-4nb1)
 - [Nodejs + TypeScript Boilerplate](https://dev.to/kojikanao/nodejs-typescript-boilerplate-534l)
 - [pip commands You Should Know!!!](https://dev.to/kojikanao/pip-commands-you-should-know-3mpl)
 - [Python version on OS of GitHub Actions](https://dev.to/kojikanao/python-version-on-os-of-github-actions-3fc6)
-- [Display Elapsed Time in Python](https://dev.to/kojikanao/display-elapsed-time-in-python-4ofm)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
