@@ -3,7 +3,6 @@
 <div align="center">
 <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="300"/>
 
-[instagram](https://www.instagram.com/koji_kanao/)
 </div>
 
 <br/>
