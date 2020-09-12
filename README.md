@@ -21,11 +21,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Lines to Use VSCode(codeserver) on Google Colab](https://dev.to/kojikanao/3-lines-to-use-vscode-codeserver-on-google-colab-da9)
 - [4Steps to Create react dev env with Docker for Beginner🐳](https://dev.to/kojikanao/4steps-to-create-react-dev-env-with-docker-3j2n)
 - [Introduce TypeScript to react(js) project with ts-migrate😎](https://dev.to/kojikanao/introduce-typescript-to-react-js-project-with-ts-migrate-190h)
 - [Install python 3.8.0 via pyenv on BigSur](https://dev.to/kojikanao/install-python-3-8-0-via-pyenv-on-bigsur-4oee)
 - [Set up a Blog with Notion and Vercel in 10 min](https://dev.to/kojikanao/set-up-a-blog-with-notion-and-vercel-in-10-min-4nb1)
-- [Nodejs + TypeScript Boilerplate](https://dev.to/kojikanao/nodejs-typescript-boilerplate-534l)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
