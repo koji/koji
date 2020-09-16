@@ -2,10 +2,10 @@
  
 <div align="center">
 <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="300"/>
-
 </div>
-
 <br/>
+
+[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="center">
   <a href="https://dev.to/kojikanao"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
