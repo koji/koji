@@ -16,6 +16,8 @@
   <a href="mailto:kojikanao503@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=koji)](https://github.com/ryo-ma/github-profile-trophy) 
+ 
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/koji/count.svg" alt="hit counter" align="center">
