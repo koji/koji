@@ -25,11 +25,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Super Easy 360 Image Viewer with A-Frame Less 20 Lines](https://dev.to/kojikanao/super-easy-360-image-viewer-with-a-frame-less-20-lines-4884)
 - [3 Things You Should Know About gh](https://dev.to/kojikanao/3-things-you-should-know-about-gh-49ha)
 - [3 Lines to Use VSCode(codeserver) on Google Colab](https://dev.to/kojikanao/3-lines-to-use-vscode-codeserver-on-google-colab-da9)
 - [4Steps to Create react dev env with Docker for Beginner🐳](https://dev.to/kojikanao/4steps-to-create-react-dev-env-with-docker-3j2n)
 - [Introduce TypeScript to react(js) project with ts-migrate😎](https://dev.to/kojikanao/introduce-typescript-to-react-js-project-with-ts-migrate-190h)
-- [Install python 3.8.0 via pyenv on BigSur](https://dev.to/kojikanao/install-python-3-8-0-via-pyenv-on-bigsur-4oee)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
