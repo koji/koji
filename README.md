@@ -25,11 +25,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Time to Clean My Machine with ncdu](https://dev.to/kojikanao/time-to-clean-my-machine-with-ncdu-4add)
 - [Create Timeline with Reactjs and Contentful](https://dev.to/kojikanao/create-timeline-with-reactjs-and-contentful-4j7p)
 - [Run VirtualBox on BigSur](https://dev.to/kojikanao/run-virtualbox-on-bigsur-ic3)
 - [Use OpenCV with Xcode](https://dev.to/kojikanao/use-opencv-with-xcode-41n0)
 - [Build a Simple Blog with Contentful and React](https://dev.to/kojikanao/build-a-simple-blog-with-contentful-and-react-5ce0)
-- [openbase is Very Useful When You Choose JS Library for Your Project 🎉](https://dev.to/kojikanao/openbase-is-very-useful-when-you-choose-js-library-for-your-project-4npd)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
