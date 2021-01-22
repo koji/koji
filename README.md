@@ -25,12 +25,12 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [16 Useful WebSites for Frontend Engineers](https://dev.to/kojikanao/useful-websites-for-frontend-engineers-27ac)
 - [Almost no config!!!                   
 Snowpack ❄️ + React + TS](https://dev.to/kojikanao/almost-no-config-snowpack-react-ts-5aac)
 - [Get Google Drive Shared Files' Info with GAS](https://dev.to/kojikanao/get-my-google-drive-info-with-gas-1obn)
 - [Draw Interactive Tree Map with Jupyter Dash Only 2lines](https://dev.to/kojikanao/draw-interactive-tree-map-with-jupyter-dash-1fon)
 - [Time to Clean My Machine with ncdu](https://dev.to/kojikanao/time-to-clean-my-machine-with-ncdu-4add)
-- [Create Timeline with Reactjs and Contentful](https://dev.to/kojikanao/create-timeline-with-reactjs-and-contentful-4j7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
