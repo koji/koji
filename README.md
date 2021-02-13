@@ -5,7 +5,8 @@
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="200"/> 
+<!-- 
+<img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="200"/> -->
 </div>
 <br/>
 
