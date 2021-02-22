@@ -28,7 +28,7 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Should ❤️ curl We Can Do Many Things with curl!!!](https://dev.to/kojikanao/we-should-curl-we-can-do-many-things-with-curl-7ld)
+- [We Should ❤️ curl 18 things  We Can Do with curl!!!](https://dev.to/kojikanao/we-should-curl-we-can-do-many-things-with-curl-7ld)
 - [Introduce Autocomplete to JupyterLab with Kite](https://dev.to/kojikanao/introduce-autocomplete-to-jupyterlab-with-kite-6am)
 - [Open source Clubhouse Alternatives](https://dev.to/kojikanao/open-source-for-clubhouse-5doe)
 - [Create an npm package template with TypeScript and rollup.js](https://dev.to/kojikanao/create-an-npm-package-template-with-typescript-and-rollup-js-294a)
