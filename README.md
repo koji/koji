@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Fancy Text(Blotter.js) with Reactjs](https://dev.to/kojikanao/use-fancy-text-with-reactjs-5746)
 - [We Should ❤️ curl 18 things  We Can Do with curl!!!](https://dev.to/kojikanao/we-should-curl-we-can-do-many-things-with-curl-7ld)
 - [Introduce Autocomplete to JupyterLab with Kite](https://dev.to/kojikanao/introduce-autocomplete-to-jupyterlab-with-kite-6am)
 - [Open source Clubhouse Alternatives](https://dev.to/kojikanao/open-source-for-clubhouse-5doe)
 - [Create an npm package template with TypeScript and rollup.js](https://dev.to/kojikanao/create-an-npm-package-template-with-typescript-and-rollup-js-294a)
-- [36 Useful Website for Frontend Engineers (Always updated)](https://dev.to/kojikanao/useful-websites-for-frontend-engineers-27ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
