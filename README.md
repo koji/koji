@@ -28,7 +28,7 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Install python 3.7 3.6, 3.5 and 3.4 on BigSure with pyenv](https://dev.to/kojikanao/install-python-3-7-3-6-and-3-5-on-bigsure-with-pyenv-3ij2)
+- [Install python 3.7, 3.6, 3.5, and 3.4 on BigSure with pyenv](https://dev.to/kojikanao/install-python-3-7-3-6-and-3-5-on-bigsure-with-pyenv-3ij2)
 - [Build a Birthday Bot with Twilio and Spreadsheet](https://dev.to/kojikanao/build-a-birthday-bot-with-twilio-and-spreadsheet-33a6)
 - [Use Fancy Text(Blotter.js) with Reactjs](https://dev.to/kojikanao/use-fancy-text-with-reactjs-5746)
 - [We Should ❤️ curl 18 things  We Can Do with curl!!!](https://dev.to/kojikanao/we-should-curl-we-can-do-many-things-with-curl-7ld)
