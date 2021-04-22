@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use a Webcam on Raspberry pi with 3 Commands](https://dev.to/kojikanao/use-a-webcam-on-raspberry-pi-with-3-commands-2c3l)
 - [Optimize Images with CLI Tool from Google, Squoosh](https://dev.to/kojikanao/optimize-images-with-cli-tool-from-google-squoosh-nfg)
 - [Let's Keep Your Fork Repo The Latest](https://dev.to/kojikanao/let-s-keep-your-fork-repo-the-latest-ao4)
 - [Install python 3.7, 3.6, 3.5, and 3.4 on BigSure with pyenv](https://dev.to/kojikanao/install-python-3-7-3-6-and-3-5-on-bigsure-with-pyenv-3ij2)
 - [Build a Birthday Bot with Twilio and Spreadsheet](https://dev.to/kojikanao/build-a-birthday-bot-with-twilio-and-spreadsheet-33a6)
-- [Use Fancy Text(Blotter.js) with Reactjs](https://dev.to/kojikanao/use-fancy-text-with-reactjs-5746)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
