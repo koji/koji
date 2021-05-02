@@ -28,11 +28,12 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solve OpenCV: Cannot use FaceTime HD Camera (Built-in)
+OpenCV: camera failed to properly initialize!](https://dev.to/kojikanao/solve-opencv-cannot-use-facetime-hd-camera-built-in-opencv-camera-failed-to-properly-initialize-4o8g)
 - [Do you know Oh-My-Zsh Prepares Git Aliases for you?](https://dev.to/kojikanao/do-you-know-oh-my-zsh-prepares-git-aliases-for-you-2cd5)
 - [Use a Webcam on Raspberry pi with 3 Commands](https://dev.to/kojikanao/use-a-webcam-on-raspberry-pi-with-3-commands-2c3l)
 - [Optimize Images with CLI Tool from Google, Squoosh](https://dev.to/kojikanao/optimize-images-with-cli-tool-from-google-squoosh-nfg)
 - [Let's Keep Your Fork Repo The Latest](https://dev.to/kojikanao/let-s-keep-your-fork-repo-the-latest-ao4)
-- [Install python 3.7, 3.6, 3.5, and 3.4 on BigSure with pyenv](https://dev.to/kojikanao/install-python-3-7-3-6-and-3-5-on-bigsure-with-pyenv-3ij2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
