@@ -28,7 +28,7 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shorthands We Need to Know for Writing JavaScript](https://dev.to/kojikanao/shorthands-we-need-to-know-for-writing-javascript-ha7)
+- [9 Shorthands We Need to Know for Writing JavaScript](https://dev.to/kojikanao/shorthands-we-need-to-know-for-writing-javascript-ha7)
 - [Compare React with three.js and react-three-fiber](https://dev.to/kojikanao/compare-react-with-three-js-and-react-three-fiber-32ij)
 - [Create Simple Crypto Bot with Twilio](https://dev.to/kojikanao/create-simple-crypto-bot-with-twilio-2jh6)
 - [Enable to Use Emmet with Tab on VSCode](https://dev.to/kojikanao/enable-to-use-emmet-with-tab-on-vscode-42cl)
