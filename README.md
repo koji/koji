@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get a Developer Oriented Domain for Free and Use it with Vercel](https://dev.to/kojikanao/get-a-developer-oriented-domain-for-free-3o4a)
 - [Emmet Prevents GitHub Copilot trigger](https://dev.to/kojikanao/emmet-prevents-github-copilot-1k3f)
 - [Set Up Ubuntu on Raspberry Pi4 without Monitor](https://dev.to/kojikanao/set-up-ubuntu-on-raspberry-pi4-without-monitor-ea1)
 - [9 Shorthands We Need to Know for Writing JavaScript](https://dev.to/kojikanao/shorthands-we-need-to-know-for-writing-javascript-ha7)
 - [Compare React with three.js and react-three-fiber](https://dev.to/kojikanao/compare-react-with-three-js-and-react-three-fiber-32ij)
-- [Create Simple Crypto Bot with Twilio](https://dev.to/kojikanao/create-simple-crypto-bot-with-twilio-2jh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
