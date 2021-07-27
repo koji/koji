@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Implementation of FizzBuzz in functional programming](https://dev.to/kojikanao/fizzbuzz-in-functional-programming-with-js-4obn)
 - [How to Run stargan2 on Google Colab](https://dev.to/kojikanao/how-to-run-stargan2-on-google-colab-1hlj)
 - [Get a Developer Oriented Domain for Free and Use it with Vercel](https://dev.to/kojikanao/get-a-developer-oriented-domain-for-free-3o4a)
 - [Emmet Prevents GitHub Copilot trigger](https://dev.to/kojikanao/emmet-prevents-github-copilot-1k3f)
 - [Set Up Ubuntu on Raspberry Pi4 without Monitor](https://dev.to/kojikanao/set-up-ubuntu-on-raspberry-pi4-without-monitor-ea1)
-- [9 Shorthands We Need to Know for Writing JavaScript](https://dev.to/kojikanao/shorthands-we-need-to-know-for-writing-javascript-ha7)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
