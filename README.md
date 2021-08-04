@@ -28,7 +28,7 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a Circle with Letters](https://dev.to/kojikanao/create-a-circle-with-letters-52i0)
+- [Create a Circle Shape with Letters](https://dev.to/kojikanao/create-a-circle-with-letters-52i0)
 - [Create a Card component with React and styled-components](https://dev.to/kojikanao/create-a-card-component-with-react-and-styled-components-54b5)
 - [Use Webcam with React easily](https://dev.to/kojikanao/use-webcam-with-react-easily-397f)
 - [JavaScript Implementation of FizzBuzz in functional programming](https://dev.to/kojikanao/fizzbuzz-in-functional-programming-with-js-4obn)
