@@ -28,7 +28,7 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get TikTok video with less 10 Lines Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
+- [Get TikTok video with less than 10 Lines of Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
 - [Generate Types from Contentful](https://dev.to/kojikanao/generate-types-from-contentful-49p8)
 - [What You Need to Do When og:image doesn't show up on LinkedIn](https://dev.to/kojikanao/what-you-need-to-do-when-og-image-doesn-t-show-up-on-linkedin-3oe5)
 - [Create a Tilt Hover Effect Card with react-vanilla-tilt & react-parallax-tilt](https://dev.to/kojikanao/create-a-tilt-hover-effect-card-with-react-vanilla-tilt-react-parallax-tilt-639)
