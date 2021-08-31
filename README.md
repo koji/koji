@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
 - [Remove Space/Empty New Line on VSCode with Regex](https://dev.to/kojikanao/remove-space-empty-new-line-on-vscode-with-regex-33bh)
 - [Created Frontend Tools Showcase site with Next.js & Contentful](https://dev.to/kojikanao/created-frontend-tools-showcase-site-with-next-js-contentful-50i0)
 - [Get TikTok video with less than 10 Lines of Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
 - [Generate Types from Contentful](https://dev.to/kojikanao/generate-types-from-contentful-49p8)
-- [What You Need to Do When og:image doesn't show up on LinkedIn](https://dev.to/kojikanao/what-you-need-to-do-when-og-image-doesn-t-show-up-on-linkedin-3oe5)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
