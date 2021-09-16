@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compress Images with Python(16 lines) and TinyPNG API](https://dev.to/kojikanao/compress-images-with-python-16-lines-and-tinypng-api-3l69)
 - [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
 - [Remove Space/Empty New Line on VSCode with Regex](https://dev.to/kojikanao/remove-space-empty-new-line-on-vscode-with-regex-33bh)
 - [Created Frontend Tools Showcase site with Next.js & Contentful](https://dev.to/kojikanao/created-frontend-tools-showcase-site-with-next-js-contentful-50i0)
 - [Get TikTok video with less than 10 Lines of Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
-- [Generate Types from Contentful](https://dev.to/kojikanao/generate-types-from-contentful-49p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
