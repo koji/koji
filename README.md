@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [console.table display Tip](https://dev.to/kojikanao/console-table-display-tip-f57)
 - [Host Static Site on Heroku in 5 minutes with Basic Auth](https://dev.to/kojikanao/host-static-site-on-heroku-in-5-minutes-with-basic-auth-1ib9)
 - [Compress Images with Python(16 lines) and TinyPNG API](https://dev.to/kojikanao/compress-images-with-python-16-lines-and-tinypng-api-3l69)
 - [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
 - [Remove Space/Empty New Line on VSCode with Regex](https://dev.to/kojikanao/remove-space-empty-new-line-on-vscode-with-regex-33bh)
-- [Created Frontend Tools Showcase site with Next.js & Contentful](https://dev.to/kojikanao/created-frontend-tools-showcase-site-with-next-js-contentful-50i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
