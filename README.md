@@ -29,7 +29,7 @@
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Open a web page from Terminal with Brave Browser](https://dev.to/kojikanao/open-a-web-page-from-terminal-with-brave-browser-p2b)
-- [11 Chrome Extensions I Can't Live without](https://dev.to/kojikanao/11-chrome-extensions-i-cant-live-without-2djh)
+- [11 Chrome Extensions I Can&#39;t Live without](https://dev.to/kojikanao/11-chrome-extensions-i-cant-live-without-2djh)
 - [Create a Table with material-ui and material-table](https://dev.to/kojikanao/create-a-table-with-material-ui-and-material-table-f82)
 - [Setup Reactjs + TypeScript with Tailwind CSS](https://dev.to/kojikanao/setup-reactjs-typescript-with-tailwind-css-2k0i)
 - [console.table display Tip](https://dev.to/kojikanao/console-table-display-tip-f57)
