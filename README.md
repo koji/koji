@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Hello World Discord Bot with discord.js](https://dev.to/kojikanao/create-hello-world-discord-bot-with-discordjs-56dn)
 - [Mint an NFT Easily without Paying Fee](https://dev.to/kojikanao/mint-an-nft-easily-without-paying-fee-4gd8)
 - [Open a web page from Terminal with Brave Browser](https://dev.to/kojikanao/open-a-web-page-from-terminal-with-brave-browser-p2b)
 - [11 Chrome Extensions I Can&#39;t Live without](https://dev.to/kojikanao/11-chrome-extensions-i-cant-live-without-2djh)
 - [Create a Table with material-ui and material-table](https://dev.to/kojikanao/create-a-table-with-material-ui-and-material-table-f82)
-- [Setup Reactjs + TypeScript with Tailwind CSS](https://dev.to/kojikanao/setup-reactjs-typescript-with-tailwind-css-2k0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
