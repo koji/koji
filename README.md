@@ -28,11 +28,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Send Emails from Gmail to Discord Channel](https://dev.to/kojikanao/send-emails-from-gmail-to-discord-channel-29l2)
 - [Animated Website Backgrounds Easily with vantajs](https://dev.to/kojikanao/animated-website-backgrounds-easily-with-vantajs-lfp)
 - [Try AnimeGANv2 with PyTorch on Google Colab](https://dev.to/kojikanao/try-animeganv2-with-pytorch-on-google-colab-4p59)
 - [Cleaned Up Browser Extensions Now I Use 33 Extensions](https://dev.to/kojikanao/cleaned-up-browser-extensions-now-i-use-33-extensions-4abf)
 - [Create Hello World Discord Bot with discord.js](https://dev.to/kojikanao/create-hello-world-discord-bot-with-discordjs-56dn)
-- [Mint an NFT Easily without Paying Fee](https://dev.to/kojikanao/mint-an-nft-easily-without-paying-fee-4gd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
