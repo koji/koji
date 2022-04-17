@@ -1,7 +1,12 @@
 # Hello  👋  こんにちは
  
-<div align="center">
+- software engineer in Brooklyn
+- like media art
 
+ 
+<div align="center">
+ 
+ 
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -11,7 +16,7 @@
 
 <p align="center">
   <a href="https://dev.to/kojikanao"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/koji_kanao"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/0xkoji"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/kojikanao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kojikanao503@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://koji-kanao.medium.com/"><img src="https://img.shields.io/badge/medium-%2304EA05.svg?&style=for-the-badge&logo=medium&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
