@@ -22,15 +22,6 @@
  <a href="https://koji-kanao.medium.com/"><img src="https://img.shields.io/badge/medium-%2304EA05.svg?&style=for-the-badge&logo=medium&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-  
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=koji)](https://github.com/ryo-ma/github-profile-trophy) 
- 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/koji/count.svg" alt="hit counter" align="center">
-</div>
-
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Great Free Resources to Learn web3 for Developers](https://dev.to/kojikanao/great-free-resources-to-learn-web3-for-developers-2ppm)
@@ -39,6 +30,8 @@
 - [Try AnimeGANv2 with PyTorch on Google Colab](https://dev.to/kojikanao/try-animeganv2-with-pytorch-on-google-colab-4p59)
 - [Cleaned Up Browser Extensions Now I Use 33 Extensions](https://dev.to/kojikanao/cleaned-up-browser-extensions-now-i-use-33-extensions-4abf)
 <!-- BLOG-POST-LIST:END -->
+
+
 
 <!--
 **koji/koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
