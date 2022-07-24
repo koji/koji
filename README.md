@@ -3,24 +3,14 @@
 - software engineer in Brooklyn
 - like media art
 
+
  
-<div align="center">
- 
- 
-[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="200"/> -->
-</div>
+
+  <a href="https://app.daily.dev/koji"><img src="https://api.daily.dev/devcards/b40344fe22f24ead86e6c4abfa992fe0.png?r=smg" width="250px" alt="Koji's Dev Card"/></a>
+
 <br/>
 
-<p align="center">
-  <a href="https://dev.to/kojikanao"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/0xkoji"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/kojikanao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kojikanao503@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://koji-kanao.medium.com/"><img src="https://img.shields.io/badge/medium-%2304EA05.svg?&style=for-the-badge&logo=medium&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
