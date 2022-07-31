@@ -10,8 +10,6 @@
 
 <br/>
 
-
-
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Great Free Resources to Learn web3 for Developers](https://dev.to/kojikanao/great-free-resources-to-learn-web3-for-developers-2ppm)
