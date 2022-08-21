@@ -12,11 +12,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Great Free Resources to Learn web3 for Developers](https://dev.to/kojikanao/great-free-resources-to-learn-web3-for-developers-2ppm)
-- [Send Emails from Gmail to Discord Channel](https://dev.to/kojikanao/send-emails-from-gmail-to-discord-channel-29l2)
-- [Animated Website Backgrounds Easily with vantajs](https://dev.to/kojikanao/animated-website-backgrounds-easily-with-vantajs-lfp)
-- [Try AnimeGANv2 with PyTorch on Google Colab](https://dev.to/kojikanao/try-animeganv2-with-pytorch-on-google-colab-4p59)
-- [Cleaned Up Browser Extensions Now I Use 33 Extensions](https://dev.to/kojikanao/cleaned-up-browser-extensions-now-i-use-33-extensions-4abf)
+- [How to switch from Oh My Zsh to starship 🚀](https://dev.to/0xkoji/how-to-switch-from-oh-my-zsh-to-starship-4nck)
+- [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
+- [Retrieve lines from a GitHub repo by a command](https://dev.to/0xkoji/retrieve-lines-from-a-github-repo-by-a-command-37mo)
+- [How to Create an Interactive NFT with Remix and threejs](https://dev.to/0xkoji/how-to-create-an-interactive-nft-with-remix-and-threejs-5c9j)
+- [Great Free Resources to Learn web3 for Developers](https://dev.to/0xkoji/great-free-resources-to-learn-web3-for-developers-2ppm)
 <!-- BLOG-POST-LIST:END -->
 
 
