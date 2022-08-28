@@ -12,11 +12,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use KioskBoard with Reactjs](https://dev.to/0xkoji/use-kioskboard-with-reactjs-3d5o)
 - [How to switch from Oh My Zsh to starship 🚀](https://dev.to/0xkoji/how-to-switch-from-oh-my-zsh-to-starship-4nck)
 - [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
 - [Retrieve lines from a GitHub repo by a command](https://dev.to/0xkoji/retrieve-lines-from-a-github-repo-by-a-command-37mo)
 - [How to Create an Interactive NFT with Remix and threejs](https://dev.to/0xkoji/how-to-create-an-interactive-nft-with-remix-and-threejs-5c9j)
-- [Great Free Resources to Learn web3 for Developers](https://dev.to/0xkoji/great-free-resources-to-learn-web3-for-developers-2ppm)
 <!-- BLOG-POST-LIST:END -->
 
 
