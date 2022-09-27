@@ -19,6 +19,20 @@
 - [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+
+<p align="center">
+<a href="https://github.com/aaly00">
+<div align="center">
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koji&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=koji&theme=material-palenight&hide_border=true" />
+
+  </div>
+ <div align="center">
+   <img width="99.3%" src="https://activity-graph.herokuapp.com/graph?username=koji&theme=rogue&hide_border=true&area=true"/>
+</div>
+</a>
+</p>
 
 
 <!--
