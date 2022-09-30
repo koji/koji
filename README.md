@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/aaly00">
+<a href="https://github.com/koji">
 <div align="center">
   <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koji&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=koji&theme=material-palenight&hide_border=true" />
