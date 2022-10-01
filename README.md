@@ -10,17 +10,8 @@
 
 <br/>
 
-## blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Use Stable Diffusion openvino with poetry](https://dev.to/0xkoji/use-stable-diffusion-openvino-with-poetry-2ndc)
-- [🤝 Alternatives of Heroku](https://dev.to/0xkoji/alternatives-of-heroku-3aa8)
-- [Use KioskBoard with Reactjs](https://dev.to/0xkoji/use-kioskboard-with-reactjs-3d5o)
-- [How to switch from Oh My Zsh to starship 🚀](https://dev.to/0xkoji/how-to-switch-from-oh-my-zsh-to-starship-4nck)
-- [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
-<!-- BLOG-POST-LIST:END -->
 
-<br/>
-
+## GitHub Stats
 <p align="center">
 <a href="https://github.com/koji">
 <div align="center">
@@ -34,7 +25,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -61,6 +52,18 @@
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40" /></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
 </p>
+
+<br/>
+
+## blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Use Stable Diffusion openvino with poetry](https://dev.to/0xkoji/use-stable-diffusion-openvino-with-poetry-2ndc)
+- [🤝 Alternatives of Heroku](https://dev.to/0xkoji/alternatives-of-heroku-3aa8)
+- [Use KioskBoard with Reactjs](https://dev.to/0xkoji/use-kioskboard-with-reactjs-3d5o)
+- [How to switch from Oh My Zsh to starship 🚀](https://dev.to/0xkoji/how-to-switch-from-oh-my-zsh-to-starship-4nck)
+- [7 javascript/typescript playground](https://dev.to/0xkoji/7-javascripttypescript-playground-446l)
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
