@@ -57,11 +57,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Drag &amp; Drop + DropZone with interact.js + reactjs](https://dev.to/0xkoji/make-drag-drop-dropzone-with-interactjs-reactjs-pnk)
 - [2 commands you should know if you use VSCode](https://dev.to/0xkoji/2-commands-you-should-know-if-you-use-vscode-1i3c)
 - [Only 7 lines python code to remove background with rembg](https://dev.to/0xkoji/only-7-lines-python-code-to-remove-background-with-rembg-4g74)
 - [Use Stable Diffusion openvino with poetry](https://dev.to/0xkoji/use-stable-diffusion-openvino-with-poetry-2ndc)
 - [🤝 Alternatives of Heroku](https://dev.to/0xkoji/alternatives-of-heroku-3aa8)
-- [Use KioskBoard with Reactjs](https://dev.to/0xkoji/use-kioskboard-with-reactjs-3d5o)
 <!-- BLOG-POST-LIST:END -->
 
 
