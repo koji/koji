@@ -12,18 +12,7 @@
 
 
 ## GitHub Stats
-<p align="center">
-<a href="https://github.com/koji">
-<div align="center">
-  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koji&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=koji&theme=material-palenight&hide_border=true" />
-
-  </div>
- <div align="center">
-   <img width="99.3%" src="https://activity-graph.herokuapp.com/graph?username=koji&theme=rogue&hide_border=true&area=true"/>
-</div>
-</a>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koji?cardType=octocat&theme=buefy&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Languages and Tools
 <p align="left"> 
