@@ -46,11 +46,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Docker on WSL2](https://dev.to/0xkoji/install-docker-on-wsl2-2ma5)
 - [Run GPT4All on Google Colab](https://dev.to/0xkoji/run-gpt4all-on-google-colab-2f55)
 - [Create a simple spinner with reactjs + styled-components](https://dev.to/0xkoji/create-a-simple-spinner-with-reactjs-styled-components-5mp)
 - [Make Drag &amp; Drop + DropZone with interact.js + reactjs](https://dev.to/0xkoji/make-drag-drop-dropzone-with-interactjs-reactjs-pnk)
 - [2 commands you should know if you use VSCode](https://dev.to/0xkoji/2-commands-you-should-know-if-you-use-vscode-1i3c)
-- [Only 7 lines python code to remove background with rembg](https://dev.to/0xkoji/only-7-lines-python-code-to-remove-background-with-rembg-4g74)
 <!-- BLOG-POST-LIST:END -->
 
 
