@@ -46,11 +46,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an npm package template with TypeScript and tsup](https://dev.to/0xkoji/create-a-npm-package-template-with-typescript-and-tsup-328n)
 - [How to Use OpenAI Fine-tuning API with JavaScript](https://dev.to/0xkoji/how-to-use-openai-fine-tuning-api-with-javascript-25jk)
 - [Customize react-simple-keyboard layout](https://dev.to/0xkoji/customize-react-simple-keyboard-layout-1dcb)
 - [Install Docker on WSL2](https://dev.to/0xkoji/install-docker-on-wsl2-2ma5)
 - [Run GPT4All on Google Colab](https://dev.to/0xkoji/run-gpt4all-on-google-colab-2f55)
-- [Create a simple spinner with reactjs + styled-components](https://dev.to/0xkoji/create-a-simple-spinner-with-reactjs-styled-components-5mp)
 <!-- BLOG-POST-LIST:END -->
 
 
