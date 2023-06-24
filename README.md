@@ -46,11 +46,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate QR codes with Stable Diffusion and ControlNet](https://dev.to/0xkoji/generate-qr-codes-with-stable-diffusion-and-controlnet-5fac)
 - [Homebrew shows an Error, Error: Cannot download non-corrupt https://formulae.brew.sh/api/formula.jws.json!](https://dev.to/0xkoji/homebrew-shows-an-error-error-cannot-download-non-corrupt-httpsformulaebrewshapiformulajwsjson-4mai)
 - [Run MusicGen on Google Colab/Windows11](https://dev.to/0xkoji/run-musicgen-on-google-colab-1pjd)
 - [Create an npm package template with TypeScript and tsup](https://dev.to/0xkoji/create-a-npm-package-template-with-typescript-and-tsup-328n)
 - [How to Use OpenAI Fine-tuning API with JavaScript](https://dev.to/0xkoji/how-to-use-openai-fine-tuning-api-with-javascript-25jk)
-- [Customize react-simple-keyboard layout](https://dev.to/0xkoji/customize-react-simple-keyboard-layout-1dcb)
 <!-- BLOG-POST-LIST:END -->
 
 
