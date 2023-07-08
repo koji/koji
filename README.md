@@ -46,11 +46,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Bard-API](https://dev.to/0xkoji/use-bard-api-164i)
 - [Generate a QRCode with StableDiffusion and ControlNet](https://dev.to/0xkoji/generate-a-qrcode-with-stablediffusion-and-controlnet-2i74)
 - [Generate QR codes with Stable Diffusion and ControlNet](https://dev.to/0xkoji/generate-qr-codes-with-stable-diffusion-and-controlnet-5fac)
 - [Homebrew shows an Error, Error: Cannot download non-corrupt https://formulae.brew.sh/api/formula.jws.json!](https://dev.to/0xkoji/homebrew-shows-an-error-error-cannot-download-non-corrupt-httpsformulaebrewshapiformulajwsjson-4mai)
 - [Run MusicGen on Google Colab/Windows11](https://dev.to/0xkoji/run-musicgen-on-google-colab-1pjd)
-- [Create an npm package template with TypeScript and tsup](https://dev.to/0xkoji/create-a-npm-package-template-with-typescript-and-tsup-328n)
 <!-- BLOG-POST-LIST:END -->
 
 
