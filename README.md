@@ -5,7 +5,7 @@
 - software engineer who is working for a robotics startup in Brooklyn
 - like media art
 - interested in new tech
-
+- generating qr code with stable diffusion is my current favorite lol
  
 
 <!--   <a href="https://app.daily.dev/koji"><img src="https://api.daily.dev/devcards/b40344fe22f24ead86e6c4abfa992fe0.png?r=smg" width="250px" alt="Koji's Dev Card"/></a> -->
