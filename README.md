@@ -48,11 +48,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run MusicGen-stereo on Google Colab &lpar;Free-tier&rpar;](https://dev.to/0xkoji/run-musicgen-stereo-on-google-colab-free-tier-4mgk)
 - [Use ngrok with secret key on Google Colab](https://dev.to/0xkoji/use-ngrok-with-secret-key-on-google-colab-47l0)
 - [Running Open Interpreter on Windows](https://dev.to/0xkoji/running-open-interpreter-on-windows-4gjn)
 - [Use Llama2 with 16 Lines of Python Code](https://dev.to/0xkoji/using-llama2-with-16-lines-of-python-code-an9)
 - [Use Bard with Python and Brad-API](https://dev.to/0xkoji/use-bard-api-164i)
-- [Generate a QRCode with StableDiffusion and ControlNet](https://dev.to/0xkoji/generate-a-qrcode-with-stablediffusion-and-controlnet-2i74)
 <!-- BLOG-POST-LIST:END -->
 
 
