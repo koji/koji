@@ -48,11 +48,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Run Large Language Models Locally on a Windows Machine Using WSL and Ollama](https://dev.to/0xkoji/how-to-run-large-language-models-locally-on-a-windows-machine-using-wsl-and-ollama-55fd)
 - [Run MusicGen-stereo on Google Colab &lpar;Free-tier&rpar;](https://dev.to/0xkoji/run-musicgen-stereo-on-google-colab-free-tier-4mgk)
 - [Use ngrok with secret key on Google Colab](https://dev.to/0xkoji/use-ngrok-with-secret-key-on-google-colab-47l0)
 - [Running Open Interpreter on Windows](https://dev.to/0xkoji/running-open-interpreter-on-windows-4gjn)
 - [Use Llama2 with 16 Lines of Python Code](https://dev.to/0xkoji/using-llama2-with-16-lines-of-python-code-an9)
-- [Use Bard with Python and Brad-API](https://dev.to/0xkoji/use-bard-api-164i)
 <!-- BLOG-POST-LIST:END -->
 
 
