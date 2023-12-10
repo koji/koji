@@ -6,11 +6,14 @@
 - like media art
 - interested in new tech
 - generating qr code with stable diffusion is my current favorite lol
+- prompt engineering
  
 
 <!--   <a href="https://app.daily.dev/koji"><img src="https://api.daily.dev/devcards/b40344fe22f24ead86e6c4abfa992fe0.png?r=smg" width="250px" alt="Koji's Dev Card"/></a> -->
 
 <!-- <br/> -->
+
+<img src="https://github.com/koji/koji/assets/474225/f27f36ad-9f51-43cf-8ca7-348c759feb8b" width="400px" />
 
 
 ## GitHub Stats
