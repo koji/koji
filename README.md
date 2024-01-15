@@ -51,11 +51,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sync GitHub repo and Hugging Face Space Repo with GitHub Actions](https://dev.to/0xkoji/sync-github-repo-and-hugging-face-space-repo-with-github-actions-3ca1)
 - [Coursera FREE courses on AI/Machine Learning](https://dev.to/0xkoji/coursera-free-courses-on-aimachine-learning-55kk)
 - [Let&#39;s take a tally on your PR this year!](https://dev.to/0xkoji/check-your-prs-data-in-a-specific-repo-25ld)
 - [Generate a Video from an Image and Motion Magic Animate on Google Colab](https://dev.to/0xkoji/generate-a-video-from-an-image-and-motion-magic-animate-on-google-colab-pnn)
 - [How to Run Large Language Models Locally on a Windows Machine Using WSL and Ollama](https://dev.to/0xkoji/how-to-run-large-language-models-locally-on-a-windows-machine-using-wsl-and-ollama-55fd)
-- [Run MusicGen-stereo on Google Colab &lpar;Free-tier&rpar;](https://dev.to/0xkoji/run-musicgen-stereo-on-google-colab-free-tier-4mgk)
 <!-- BLOG-POST-LIST:END -->
 
 
