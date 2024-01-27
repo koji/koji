@@ -51,11 +51,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bringing Black and White Photo to Life with DDColor](https://dev.to/0xkoji/bringing-black-and-white-photo-to-life-with-ddcolor-3do8)
 - [Sync GitHub repo and Hugging Face Space Repo with GitHub Actions](https://dev.to/0xkoji/sync-github-repo-and-hugging-face-space-repo-with-github-actions-3ca1)
 - [Coursera FREE courses on AI/Machine Learning](https://dev.to/0xkoji/coursera-free-courses-on-aimachine-learning-55kk)
 - [Let&#39;s take a tally on your PR this year!](https://dev.to/0xkoji/check-your-prs-data-in-a-specific-repo-25ld)
 - [Generate a Video from an Image and Motion Magic Animate on Google Colab](https://dev.to/0xkoji/generate-a-video-from-an-image-and-motion-magic-animate-on-google-colab-pnn)
-- [How to Run Large Language Models Locally on a Windows Machine Using WSL and Ollama](https://dev.to/0xkoji/how-to-run-large-language-models-locally-on-a-windows-machine-using-wsl-and-ollama-55fd)
 <!-- BLOG-POST-LIST:END -->
 
 
