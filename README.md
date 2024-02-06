@@ -51,11 +51,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Free Amazon AI Courses](https://dev.to/0xkoji/7-free-amazon-ai-courses-50p9)
+- [7 Free Amazon AI Courses](https://dev.to/0xkoji/7-free-amazon-ai-courses-iko)
 - [Use CSS with Gradio](https://dev.to/0xkoji/use-css-with-gradio-4c6j)
 - [Bringing Black and White Photo to Life with DDColor](https://dev.to/0xkoji/bringing-black-and-white-photo-to-life-with-ddcolor-3do8)
 - [Sync GitHub repo and Hugging Face Space Repo with GitHub Actions](https://dev.to/0xkoji/sync-github-repo-and-hugging-face-space-repo-with-github-actions-3ca1)
-- [Coursera FREE courses on AI/Machine Learning](https://dev.to/0xkoji/coursera-free-courses-on-aimachine-learning-55kk)
-- [Let&#39;s take a tally on your PR this year!](https://dev.to/0xkoji/check-your-prs-data-in-a-specific-repo-25ld)
 <!-- BLOG-POST-LIST:END -->
 
 
