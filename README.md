@@ -13,9 +13,6 @@
 
 <!-- <br/> -->
 
-<img src="https://github.com/koji/koji/assets/474225/f27f36ad-9f51-43cf-8ca7-348c759feb8b" width="400px" />
-
-
 ## GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koji?cardType=octocat&theme=buefy&preferLogin=false)](https://git.io/awesome-stats-card)
 
