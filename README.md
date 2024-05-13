@@ -49,11 +49,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run IC-Light on Google Colab Free Tier](https://dev.to/0xkoji/run-ic-light-on-google-colab-free-tier-3lmb)
 - [Run Gemma on Google Colab Free tier](https://dev.to/0xkoji/run-gemma-on-google-colab-free-tier-4f47)
 - [Running SDXL-Lightning on Google Colab](https://dev.to/0xkoji/running-sdxl-lightning-on-google-colab-3a66)
 - [7 Free Amazon AI Courses](https://dev.to/0xkoji/7-free-amazon-ai-courses-50p9)
 - [7 Free Amazon AI Courses](https://dev.to/0xkoji/7-free-amazon-ai-courses-iko)
-- [Use CSS with Gradio](https://dev.to/0xkoji/use-css-with-gradio-4c6j)
 <!-- BLOG-POST-LIST:END -->
 
 
