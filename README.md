@@ -49,11 +49,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Gemini to Understand Errors with Google Chrome Dev Tools](https://dev.to/0xkoji/use-gemini-to-understand-errors-with-google-chrome-dev-tools-4b54)
 - [Setting Up Docker on WSL2 with Ubuntu 24.04: An Easy Guide](https://dev.to/0xkoji/setting-up-docker-on-wsl2-with-ubuntu-2404-an-easy-guide-59cd)
 - [Run IC-Light on Google Colab Free Tier](https://dev.to/0xkoji/run-ic-light-on-google-colab-free-tier-3lmb)
 - [Run Gemma on Google Colab Free tier](https://dev.to/0xkoji/run-gemma-on-google-colab-free-tier-4f47)
 - [Running SDXL-Lightning on Google Colab](https://dev.to/0xkoji/running-sdxl-lightning-on-google-colab-3a66)
-- [7 Free Amazon AI Courses](https://dev.to/0xkoji/7-free-amazon-ai-courses-50p9)
 <!-- BLOG-POST-LIST:END -->
 
 
