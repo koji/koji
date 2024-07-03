@@ -49,11 +49,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Built-in AI Doesn&#39;t Require The Internet](https://dev.to/0xkoji/chrome-built-in-ai-doesnt-require-the-internet-1o2m)
 - [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
 - [7 Amazon Free AI Courses](https://dev.to/0xkoji/7-amazon-free-ai-courses-10ie)
 - [Use Gemini to Understand Errors with Google Chrome Dev Tools](https://dev.to/0xkoji/use-gemini-to-understand-errors-with-google-chrome-dev-tools-4b54)
 - [Setting Up Docker on WSL2 with Ubuntu 24.04: An Easy Guide](https://dev.to/0xkoji/setting-up-docker-on-wsl2-with-ubuntu-2404-an-easy-guide-59cd)
-- [Run IC-Light on Google Colab Free Tier](https://dev.to/0xkoji/run-ic-light-on-google-colab-free-tier-3lmb)
 <!-- BLOG-POST-LIST:END -->
 
 
