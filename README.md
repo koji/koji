@@ -49,11 +49,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Flux.1 on M3 Mac with Diffusers](https://dev.to/0xkoji/run-flux1-on-m3-mac-with-diffusers-9m5)
 - [7 Amazon Free AI Courses](https://dev.to/0xkoji/7-amazon-free-ai-courses-1a9p)
 - [Create a Simple ChatBot with Mesop + Ollama less than 25 lines](https://dev.to/0xkoji/create-a-simple-chatbot-with-mesop-ollama-less-than-25-lines-2c9l)
 - [Chrome Built-in AI Doesn&#39;t Require The Internet](https://dev.to/0xkoji/chrome-built-in-ai-doesnt-require-the-internet-1o2m)
 - [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
-- [7 Amazon Free AI Courses](https://dev.to/0xkoji/7-amazon-free-ai-courses-10ie)
 <!-- BLOG-POST-LIST:END -->
 
 
