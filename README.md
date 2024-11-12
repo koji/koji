@@ -49,11 +49,11 @@
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Easy Ways to Run LLM Locally + Alpha](https://dev.to/0xkoji/6-easy-ways-to-run-llm-locally-alpha-2n3f)
 - [Build a Text Extractor App with Python Code Under 30 Lines Using Gradio and Hugging Face](https://dev.to/0xkoji/build-a-text-extractor-app-with-python-code-under-30-lines-using-gradio-and-hugging-face-40o7)
 - [Accelerate 1-bit LLM Inference with BitNet on WSL2 &lpar;Ubuntu&rpar;](https://dev.to/0xkoji/accelerate-1-bit-llm-inference-with-bitnet-on-wsl2-ubuntu-3363)
 - [Essential 19 Git Commands Every Software Engineer Should Know](https://dev.to/0xkoji/essential-19-git-commands-every-software-engineer-should-know-ddd)
 - [Run Flux.1 on M3 Mac with Diffusers](https://dev.to/0xkoji/run-flux1-on-m3-mac-with-diffusers-9m5)
-- [7 Amazon Free AI Courses](https://dev.to/0xkoji/7-amazon-free-ai-courses-1a9p)
 <!-- BLOG-POST-LIST:END -->
 
 
