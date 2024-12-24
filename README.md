@@ -38,11 +38,11 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating Docker on WSL2: A Quick Guide](https://baxin.netlify.app/update-docker-on-wsl2/)
 - [Building 5 AI Agents with phidata and Ollama](https://dev.to/0xkoji/building-5-ai-agents-with-phidata-and-ollama-156b)
+- [Building 5 AI Agents with phidata and Ollama](https://baxin.netlify.app/build-ai-agents-phidata-ollama/)
 - [Install Zellij on WSL](https://dev.to/0xkoji/install-zellij-on-wsl-4f31)
-- [How to Run Samurai on Google Colab](https://dev.to/0xkoji/how-to-run-samurai-on-google-colab-4m2g)
-- [6 Easy Ways to Run LLM Locally + Alpha](https://dev.to/0xkoji/6-easy-ways-to-run-llm-locally-alpha-2n3f)
-- [Build a Text Extractor App with Python Code Under 30 Lines Using Gradio and Hugging Face](https://dev.to/0xkoji/build-a-text-extractor-app-with-python-code-under-30-lines-using-gradio-and-hugging-face-40o7)
+- [Install Zellij on WSL](https://baxin.netlify.app/install-zellij-on-wsl/)
 <!-- BLOG-POST-LIST:END -->
 
 
