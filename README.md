@@ -43,6 +43,11 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [Building 5 AI Agents with phidata and Ollama](https://baxin.netlify.app/build-ai-agents-phidata-ollama/)
 - [Install Zellij on WSL](https://baxin.netlify.app/install-zellij-on-wsl/)
 - [How to Run Samurai on Google Colab](https://baxin.netlify.app/how-to-run-samurai-on-google-colab/)
+- [How to Completely Uninstall Ollama from Ubuntu: A Step-by-Step Guide](https://baxin.netlify.app/completely-uninstall-ollama-ubuntu/)
+- [Master the Magic of cURL: From IP Lookup to QR Codes and Beyond!](https://baxin.netlify.app/curl-ip-lookup-qr-code-weather-crypto/)
+- [6 Easy Ways to Run LLM Locally + Alpha](https://baxin.netlify.app/6-easy-ways-to-run-llm-locally/)
+- [Build a Text Extractor App with Python Code Under 30 Lines Using Gradio and Hugging Face](https://baxin.netlify.app/build-text-extractor-python-under-30-lines/)
+- [How to Install and Run Ollama LLM on WSL with GPU Acceleration](https://baxin.netlify.app/ollama-llm-install-wsl/)
 <!-- BLOG-POST-LIST:END -->
 
 
