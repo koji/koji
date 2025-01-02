@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [17 Essential CLI Tools to Boost Developer Productivity](https://baxin.netlify.app/cli-tools-for-boosting-developer-productivity/)
 - [How to Log in to Hugging Face from Google Colab](https://baxin.netlify.app/login-huggingface-google-colab/)
 - [How to Install Docker on Raspberry Pi](https://baxin.netlify.app/how-to-install-docker-raspberry-pi/)
 - [Updating Docker on WSL2: A Quick Guide](https://baxin.netlify.app/update-docker-on-wsl2/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [How to Completely Uninstall Ollama from Ubuntu: A Step-by-Step Guide](https://baxin.netlify.app/completely-uninstall-ollama-ubuntu/)
 - [Master the Magic of cURL: From IP Lookup to QR Codes and Beyond!](https://baxin.netlify.app/curl-ip-lookup-qr-code-weather-crypto/)
 - [6 Easy Ways to Run LLM Locally + Alpha](https://baxin.netlify.app/6-easy-ways-to-run-llm-locally/)
-- [Build a Text Extractor App with Python Code Under 30 Lines Using Gradio and Hugging Face](https://baxin.netlify.app/build-text-extractor-python-under-30-lines/)
 <!-- BLOG-POST-LIST:END -->
 
 
