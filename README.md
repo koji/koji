@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Kokoro TTS Voice Synthesis on Google Colab with T4](https://baxin.netlify.app/kokoro-tts-google-colab-tutorial/)
 - [17 Essential CLI Tools to Boost Developer Productivity](https://baxin.netlify.app/cli-tools-for-boosting-developer-productivity/)
 - [How to Log in to Hugging Face from Google Colab](https://baxin.netlify.app/login-huggingface-google-colab/)
 - [How to Install Docker on Raspberry Pi](https://baxin.netlify.app/how-to-install-docker-raspberry-pi/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [How to Run Samurai on Google Colab](https://baxin.netlify.app/how-to-run-samurai-on-google-colab/)
 - [How to Completely Uninstall Ollama from Ubuntu: A Step-by-Step Guide](https://baxin.netlify.app/completely-uninstall-ollama-ubuntu/)
 - [Master the Magic of cURL: From IP Lookup to QR Codes and Beyond!](https://baxin.netlify.app/curl-ip-lookup-qr-code-weather-crypto/)
-- [6 Easy Ways to Run LLM Locally + Alpha](https://baxin.netlify.app/6-easy-ways-to-run-llm-locally/)
 <!-- BLOG-POST-LIST:END -->
 
 
