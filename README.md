@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily Export and Import VSCode Extensions with a Shell Script](https://baxin.netlify.app/vscode-export-import-extensions/)
 - [2 Ways to Run Ollama on Google Colab Free Tier](https://baxin.netlify.app/run-ollama-on-google-colab/)
 - [Exploring Kokoro TTS Voice Synthesis on Google Colab with T4](https://baxin.netlify.app/kokoro-tts-google-colab-tutorial/)
 - [17 Essential CLI Tools to Boost Developer Productivity](https://baxin.netlify.app/cli-tools-for-boosting-developer-productivity/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [Building 5 AI Agents with phidata and Ollama](https://baxin.netlify.app/build-ai-agents-phidata-ollama/)
 - [Install Zellij on WSL](https://baxin.netlify.app/install-zellij-on-wsl/)
 - [How to Run Samurai on Google Colab](https://baxin.netlify.app/how-to-run-samurai-on-google-colab/)
-- [How to Completely Uninstall Ollama from Ubuntu: A Step-by-Step Guide](https://baxin.netlify.app/completely-uninstall-ollama-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
