@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Local LLM with Cursor](https://baxin.netlify.app/use-local-llm-with-cursor/)
 - [WSL Troubleshooting Guide When You Can Not Access to WSL2 From Terminal](https://baxin.netlify.app/wsl2-access-issue-error-0x80072745/)
 - [Easily Export and Import VSCode Extensions with a Shell Script](https://baxin.netlify.app/vscode-export-import-extensions/)
 - [2 Ways to Run Ollama on Google Colab Free Tier](https://baxin.netlify.app/run-ollama-on-google-colab/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [How to Install Docker on Raspberry Pi](https://baxin.netlify.app/how-to-install-docker-raspberry-pi/)
 - [Updating Docker on WSL2: A Quick Guide](https://baxin.netlify.app/update-docker-on-wsl2/)
 - [Building 5 AI Agents with phidata and Ollama](https://baxin.netlify.app/build-ai-agents-phidata-ollama/)
-- [Install Zellij on WSL](https://baxin.netlify.app/install-zellij-on-wsl/)
 <!-- BLOG-POST-LIST:END -->
 
 
