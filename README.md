@@ -2,7 +2,7 @@
 
 <img width="250px" src="https://avatars.githubusercontent.com/u/474225?v=4" />
  
-- software engineer who is working for a robotics startup in Brooklyn
+- software engineer who is working for a robotics startup in LIC
 - like media art
 - interested in new tech
 - generating qr code with stable diffusion is my current favorite lol
