@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortifying the Node.js Supply Chain: 4 Security Best Practices for pnpm](https://baxin.netlify.app/fortifying-nodejs-supply-chain-pnpm-security/)
 - [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://baxin.netlify.app/check-shai-hulud-compromise/)
 - [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.netlify.app/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
 - [How to Use Local LLM with Cursor](https://baxin.netlify.app/use-local-llm-with-cursor/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [Exploring Kokoro TTS Voice Synthesis on Google Colab with T4](https://baxin.netlify.app/kokoro-tts-google-colab-tutorial/)
 - [17 Essential CLI Tools to Boost Developer Productivity](https://baxin.netlify.app/cli-tools-for-boosting-developer-productivity/)
 - [How to Log in to Hugging Face from Google Colab](https://baxin.netlify.app/login-huggingface-google-colab/)
-- [How to Install Docker on Raspberry Pi](https://baxin.netlify.app/how-to-install-docker-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 
