@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from asdf to mise without the headaches](https://baxin.netlify.app/migration-from-asdf-to-mise/)
 - [Fortifying the Node.js Supply Chain: 4 Security Best Practices for pnpm](https://baxin.netlify.app/fortifying-nodejs-supply-chain-pnpm-security/)
 - [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://baxin.netlify.app/check-shai-hulud-compromise/)
 - [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.netlify.app/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [2 Ways to Run Ollama on Google Colab Free Tier](https://baxin.netlify.app/run-ollama-on-google-colab/)
 - [Exploring Kokoro TTS Voice Synthesis on Google Colab with T4](https://baxin.netlify.app/kokoro-tts-google-colab-tutorial/)
 - [17 Essential CLI Tools to Boost Developer Productivity](https://baxin.netlify.app/cli-tools-for-boosting-developer-productivity/)
-- [How to Log in to Hugging Face from Google Colab](https://baxin.netlify.app/login-huggingface-google-colab/)
 <!-- BLOG-POST-LIST:END -->
 
 
