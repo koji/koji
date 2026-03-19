@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Look at the Claw Family](https://baxin.netlify.app/a-quick-look-at-the-claw-family/)
 - [Prevent Hugging Face Spaces from Sleeping with GitHub Actions](https://baxin.netlify.app/prevent-huggingface-spaces-sleep-github-actions/)
 - [How to Run Clawdbot Locally and Control It from Discord](https://baxin.netlify.app/run-clawdbot-locally-discord/)
 - [Run Kali Linux GUI Apps on WSL2](https://baxin.netlify.app/run-kali-linux-gui-apps-on-wsl2/)
@@ -47,7 +48,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.netlify.app/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
 - [How to Use Local LLM with Cursor](https://baxin.netlify.app/use-local-llm-with-cursor/)
 - [WSL Troubleshooting Guide When You Can Not Access to WSL2 From Terminal](https://baxin.netlify.app/wsl2-access-issue-error-0x80072745/)
-- [Easily Export and Import VSCode Extensions with a Shell Script](https://baxin.netlify.app/vscode-export-import-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 
