@@ -39,6 +39,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Terax from Source on an Intel Mac](https://baxin.netlify.app/building-terax-from-source-on-an-intel-mac/)
 - [How We Strengthened Dependency Security in Our Monorepo](https://baxin.netlify.app/strengthening-dependency-security-in-a-monorepo/)
 - [A Quick Look at the Claw Family](https://baxin.netlify.app/a-quick-look-at-the-claw-family/)
 - [Prevent Hugging Face Spaces from Sleeping with GitHub Actions](https://baxin.netlify.app/prevent-huggingface-spaces-sleep-github-actions/)
@@ -48,7 +49,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [Fortifying the Node.js Supply Chain: 4 Security Best Practices for pnpm](https://baxin.netlify.app/fortifying-nodejs-supply-chain-pnpm-security/)
 - [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://baxin.netlify.app/check-shai-hulud-compromise/)
 - [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.netlify.app/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
-- [How to Use Local LLM with Cursor](https://baxin.netlify.app/use-local-llm-with-cursor/)
 <!-- BLOG-POST-LIST:END -->
 
 
