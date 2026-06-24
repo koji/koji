@@ -39,16 +39,16 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Terax from Source on an Intel Mac](https://baxin.netlify.app/building-terax-from-source-on-an-intel-mac/)
-- [How We Strengthened Dependency Security in Our Monorepo](https://baxin.netlify.app/strengthening-dependency-security-in-a-monorepo/)
-- [A Quick Look at the Claw Family](https://baxin.netlify.app/a-quick-look-at-the-claw-family/)
-- [Prevent Hugging Face Spaces from Sleeping with GitHub Actions](https://baxin.netlify.app/prevent-huggingface-spaces-sleep-github-actions/)
-- [How to Run Clawdbot Locally and Control It from Discord](https://baxin.netlify.app/run-clawdbot-locally-discord/)
-- [Run Kali Linux GUI Apps on WSL2](https://baxin.netlify.app/run-kali-linux-gui-apps-on-wsl2/)
-- [Migrating from asdf to mise without the headaches](https://baxin.netlify.app/migration-from-asdf-to-mise/)
-- [Fortifying the Node.js Supply Chain: 4 Security Best Practices for pnpm](https://baxin.netlify.app/fortifying-nodejs-supply-chain-pnpm-security/)
-- [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://baxin.netlify.app/check-shai-hulud-compromise/)
-- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.netlify.app/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
+- [Building Terax from Source on an Intel Mac](https://baxin.pages.dev/building-terax-from-source-on-an-intel-mac/)
+- [How We Strengthened Dependency Security in Our Monorepo](https://baxin.pages.dev/strengthening-dependency-security-in-a-monorepo/)
+- [A Quick Look at the Claw Family](https://baxin.pages.dev/a-quick-look-at-the-claw-family/)
+- [Prevent Hugging Face Spaces from Sleeping with GitHub Actions](https://baxin.pages.dev/prevent-huggingface-spaces-sleep-github-actions/)
+- [How to Run Clawdbot Locally and Control It from Discord](https://baxin.pages.dev/run-clawdbot-locally-discord/)
+- [Run Kali Linux GUI Apps on WSL2](https://baxin.pages.dev/run-kali-linux-gui-apps-on-wsl2/)
+- [Migrating from asdf to mise without the headaches](https://baxin.pages.dev/migration-from-asdf-to-mise/)
+- [Fortifying the Node.js Supply Chain: 4 Security Best Practices for pnpm](https://baxin.pages.dev/fortifying-nodejs-supply-chain-pnpm-security/)
+- [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://baxin.pages.dev/check-shai-hulud-compromise/)
+- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.pages.dev/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
 <!-- BLOG-POST-LIST:END -->
 
 
