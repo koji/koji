@@ -39,6 +39,7 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 
 ## blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OIDC Authentication Succeeded, but npm Publish Returned 404 — Here’s What Happened](https://baxin.pages.dev/oidc-authentication-succeeded-but-npm-publish-returned-404-here-s-what-happened/)
 - [Building Terax from Source on an Intel Mac](https://baxin.pages.dev/building-terax-from-source-on-an-intel-mac/)
 - [How We Strengthened Dependency Security in Our Monorepo](https://baxin.pages.dev/strengthening-dependency-security-in-a-monorepo/)
 - [A Quick Look at the Claw Family](https://baxin.pages.dev/a-quick-look-at-the-claw-family/)
@@ -48,7 +49,6 @@ src="https://img.shields.io/twitter/follow/0xkoji?logo=twitter&style=for-the-bad
 - [Migrating from asdf to mise without the headaches](https://baxin.pages.dev/migration-from-asdf-to-mise/)
 - [Fortifying the Node.js Supply Chain: 4 Security Best Practices for pnpm](https://baxin.pages.dev/fortifying-nodejs-supply-chain-pnpm-security/)
 - [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://baxin.pages.dev/check-shai-hulud-compromise/)
-- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://baxin.pages.dev/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist/)
 <!-- BLOG-POST-LIST:END -->
 
 
